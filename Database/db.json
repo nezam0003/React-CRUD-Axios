@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": 3,
+      "studentName": "new student",
+      "depertment": "eee",
+      "email": "student3@gmail.com",
+      "address": "dhaka",
+      "phone": "01232666"
+    },
+    {
+      "studentName": "stuedent-2",
+      "depertment": "cse",
+      "email": "admin@gmail.com",
+      "address": "dhaka",
+      "phone": "455",
+      "id": 4
+    },
+    {
+      "studentName": "fhameed",
+      "depertment": "cse",
+      "email": "fhameedk.nezam@gmail.com",
+      "address": "dhaka",
+      "phone": "9988",
+      "id": 5
+    },
+    {
+      "studentName": "stuedent-4",
+      "depertment": "CS",
+      "email": "admin@gmail.com",
+      "address": "dhaka",
+      "phone": "",
+      "id": 6
+    }
+  ]
+}
